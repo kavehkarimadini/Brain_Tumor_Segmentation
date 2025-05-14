@@ -1,7 +1,4 @@
 # Brain_Tumor_Segmentation
-Thank you for the correction!
-
-Here’s a revised brief introduction tailored to the **BITE dataset**:
 
 ---
 
